@@ -19,3 +19,17 @@ Interactive dashboard for sentiment visualisation
 Market trend prediction based on sentiment scores
 
 Objective: To provide data-driven sentiment insights from financial text data and support decision-making in stock market analysis.
+
+
+financial-sentiment-predictor/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+│   
+├── src/
+│   ├── data_loader.py
+│   ├── sentiment_analyzer.py
+│   └── model.py 
+├── README.md 
+└── requirements.txt
